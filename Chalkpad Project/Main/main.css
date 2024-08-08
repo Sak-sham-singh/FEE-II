@@ -1,0 +1,175 @@
+body{
+    background-image:url("https://cchm.codebrigade.in/images/Chitkara_University_pic.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    width: max-width;
+    height: auto;
+
+}
+#top{
+    background-color:#ed3237;
+    height: 6px;
+    width: max-width;
+    margin: 0;
+
+}
+#top img{ 
+   position:relative;
+   left: 1360px;
+}
+#space{
+    height: 70px;
+    width: 100%;
+    margin: 7px 20px 7px 20px;
+    padding: 1px;
+}
+#main{
+    display: flex;
+    justify-content: right;
+    margin: 0px 20px 0px 20px;
+    padding-right: 200px;
+}
+#maintab{
+    width: 285px;
+    background-color: white;
+    border:2px solid rgb(222, 214, 214);;
+    
+}
+.tabletopspace{
+
+    background-color: white;
+    height: 20px;
+    width: 285px;
+    
+}
+.labell{
+    font: 15px Arial;
+}
+.inputt{
+    height: 22px;
+    width: 220px;
+    margin: 5px 0px;
+    padding: 1px 2px;
+    border: 1px solid  hsl(183, 39%, 46%);
+}
+
+#img1{
+
+    display: flex;
+    justify-content: center;
+}
+.inputtt{
+    height: 22px;
+    width: 226px;
+    margin: 5px 0px;
+    padding: 1px 2px;
+    border-color: rgb(33, 162, 169);
+}
+.pp{
+    padding:0px 0px 0px 20px;
+    margin: 12px 0px;
+}
+.ppp{
+    padding:0px 0px 0px 20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+.Rememberme{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.submit{
+    background-color: #c8171d;
+    color: white;
+    border: none;
+    height: 37px;
+    width: 226px;
+    margin:0px;
+    padding: 0px;
+    font-size: 15px;
+}
+.forgot{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color:#000000;
+    text-decoration: none;
+    margin: 0px;
+ 
+}
+.forgotpp{
+    padding:0px 0px 0px 22px;
+    margin: 0px;
+    font-size: 12px;
+}
+#checkbox{
+    margin:0px;
+}
+.signin{
+    padding:0px 0px 0px 20px;
+    margin: 10px 0px 2px 0px;
+}
+.signin input:hover{
+    color: #000000;
+}
+.forgot:hover{
+    color: #c8171d;
+}
+.privacy{
+    height: 29px;
+    padding: 0px 0px 0px 20px;
+    display: grid;
+    align-items: end;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+
+}
+.privacy a{
+    color: #2e5b87;
+    font-size: 12px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.space3{
+    height: 10px;
+    width: 285px;
+    background-color: white;
+}
+.img2{
+    display: grid;
+    grid-template-columns:auto auto auto auto auto auto auto auto auto  ;     
+   
+
+}
+#i1{
+    grid-column: 4;
+}
+.Code{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    margin: 5px 0px;
+    padding: 0px 0px 0px 50px;
+}
+.Code p{
+    margin: 0px;
+}
+.img3 p{
+    padding:0px 0px 0px 18px;
+    display: flex;
+    align-items: center;
+    margin:0px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+.img3 img{
+    height: 25px;
+    width: 100px;
+    padding: 0px 0px 0px 20px;
+}
+.Bottomspace{
+    height: 30px;
+    width: 285px;
+    background-color: white;
+}
